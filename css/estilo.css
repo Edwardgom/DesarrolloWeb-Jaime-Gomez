@@ -7,3 +7,9 @@ footer{
 img{
 	border-radius: 5px;
 }
+*{
+	margin: 1vh 1vw;
+}
+h1 + h2{
+	text-decoration: underline;
+}
